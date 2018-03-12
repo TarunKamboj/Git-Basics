@@ -1,5 +1,5 @@
-hello
-this is Tarun kamboj
-we are ready to learn git
-lets started
-dhisnksl
+Hello
+This is Tarun kamboj
+We are ready to learn git
+Lets started
+Go!
