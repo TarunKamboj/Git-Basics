@@ -1,10 +1,13 @@
 Source: http://guides.beanstalkapp.com/version-control/common-git-commands.html#remote
 
-Table of ContentsToggle
-Working with local repositories
-Working with remote repositories
-Advanced Git Commands
-More Git Resources
+Table of ContentsToggle: 
+Working with local repositories, 
+Working with remote repositories, 
+Advanced Git Commands, 
+More Git Resources.
+
+<br> 
+
 this guide is a Git toolbox
 Working with Git on the command line can be daunting. To help with that, we’ve put together a list of common Git commands, what each one means, and how to use them. Our hope is that this makes Git easier to use on a daily basis.
 
